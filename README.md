@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/509081352.svg)](https://zenodo.org/badge/latestdoi/509081352)
+
 # This repository contains the data used in the manuscript entitled **_"Predicting long-term collective animal behavior with deep learning"_**
 
 It contains data of pairs of _Hemigrammus rhodostomus_ (Rummy-nose tetra) swimming in a circular arena (25cm radius).
